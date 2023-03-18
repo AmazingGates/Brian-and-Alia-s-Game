@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif
+}
+
+button, #id {
+    background-color: green;
+    color: goldenrod;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2, #id {
+    color: red;
+}
